@@ -1,4 +1,5 @@
-Project name: Intrusion Detection System Place: Institute of Informatics and communication, University of Delhi South Campus, New Delhi.
+Project name: Intrusion Detection System 
+Place: Institute of Informatics and communication, University of Delhi South Campus, New Delhi.
 
 Intrusion Detection in Homogeneous and Heterogeneous Wireless Sensor Networks. This project aims at implementing the IDS. This system is divided in five modules.
 
